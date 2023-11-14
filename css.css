@@ -1,0 +1,23 @@
+.qweqwe{
+    width: 200px;
+    height: 90%;
+    background-color: aqua;
+    padding: 200px;
+    display: inline-block;
+}
+.wewe {
+    width: 200px;
+    height: 90%;
+    background-color: aqua;
+    padding: 200px;
+    margin-left: 10px;
+    display: inline-block;
+}
+@media(max-width:762px) {
+    .qweqwe{
+        width: 40%;
+        height: 60%;
+        
+    }
+
+}
